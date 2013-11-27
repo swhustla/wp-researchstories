@@ -1,0 +1,208 @@
+/*
+Theme Name: BeBack Theme
+Theme URI: http://wordspop.com/themes/beback-theme/
+Description: Theme for maintain underconstruction sites.
+Version: 1.1.1
+Author: Wordspop
+Author URI: http://wordspop.com/
+Tags: one column, grey, widgetized, theme widget
+Note: This theme is free to use for any purpose.
+Copyright: © 2010-2011 Wordspop
+
+Licensed under GNU GPL version 2 http://www.gnu.org/licenses/gpl.html
+Redistributions of files must retain the above copyright notice.
+*/
+
+/* Reset CSS */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+:focus {
+	outline: 0;
+}
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* General Style */
+body {
+	background: #ececec url(images/main-bg.png) repeat-x;
+	font: 62.5% Arial, Verdana, Helvetica;
+	color: #b0b0b0;
+}
+
+/* Structure Style */
+.container {
+	width: 780px;
+	margin: 0 auto;
+	background: url(images/center-bg.png) repeat-x center top;
+	padding-top: 80px;
+}
+
+/* -- Logo */
+.logo {
+	/* background: url(images/logo.png) no-repeat top center; */
+	width: 300px;
+	height: 111px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+.logo a {
+	display: block;
+	width: 300px;
+	height: 111px;
+	/* text-indent: -7777px; */
+}
+/* -- Mainbox */
+.mainbox {
+	background: url(images/box-bg.png) repeat-x top;
+	/* height: 400px; */
+	border: 1px solid #dbdbdb;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.mainbox h2 {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2em;
+	color: #b0b0b0;
+	text-shadow: 1px 1px 1px #fff;
+	padding-top: 30px;
+	letter-spacing: -0.05em;
+	padding-bottom: 10px;
+}
+
+/* -- Progress */
+.progress {
+	padding-bottom: 30px;
+}
+.progress-bar {
+	background: url(images/progressbar-bg.png) no-repeat left center;
+	height: 52px;
+	width: 646px;
+	margin: 0 auto;
+	position: relative;
+}
+#spaceused1_percentText,
+#progress-invalid {
+	font-size: 3em;
+	display: block;
+	position: absolute;
+	width: 646px;
+	text-align: center;
+	margin-top: -43px;
+	font-weight: bold;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #d79713;
+}
+#progress-invalid {
+  top: 10px;
+  color: #777;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, .3);
+  text-transform: uppercase;
+  margin-top: 0;
+}
+
+/* -- Launch date */
+.launch-date-display {
+	background: url(images/expected-date.png) no-repeat;
+	width: 333px;
+	height: 67px;
+	margin: 0 auto;
+}
+.launch-date-display div {
+	float: left;
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+	line-height: 67px;
+	color: #f7c42f;
+	text-shadow: 1px 1px 1px #fff;
+}
+.launch-date-display .month, .launch-date-display .day {
+	width: 92px;
+}
+.launch-date-display .year {
+	width: 144px;
+}
+
+/* -- Countdown */
+.countdown {
+	width: 333px;
+	text-align: center;
+	font-size: 1.2em;
+	margin: 0 auto;
+	font-weight: bold;
+	color: #a3a3a3;
+	text-transform: capitalize;
+	letter-spacing: normal !important;
+	text-shadow: 1px 1px 1px #fff;
+	padding: 5px 0;
+}
+
+/* -- Intro */
+.intro {
+	background: url(images/top-shadow.png) no-repeat top center;
+	font-size: 2.6em;
+	text-align: center;
+	padding-top: 60px;
+	color: #b0b0b0;
+	text-shadow: 1px 1px 1px #fff;
+	font-weight: bold;
+	letter-spacing: -0.07em;
+}
+.intro a {
+	color: #f6c300;
+}
+
+/* -- Footer */
+.footer {
+  text-align: center;
+	margin: 30px 0;
+}
+#wordspop {
+  background: url(images/wordspop.png) left top no-repeat;
+	width: 90px;
+	height: 25px;
+	text-indent: -7777px;
+	display: block;
+	margin: 10px auto 0 auto;
+}

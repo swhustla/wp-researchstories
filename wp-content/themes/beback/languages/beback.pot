@@ -1,0 +1,469 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2011-03-21 15:08+0700\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: libs/wpop/bundled/options.php:30
+msgid   "16px x 16px PNG/GIF/Ico image that will represent your website's "
+        "icon. You can create it using online tools such as <a href=\"http://"
+        "favikon.com/\">favikon</a>."
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:449
+msgid   "Add"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:242
+msgid   "Add the entry which you like to show on slider, drag and drop to "
+        "reorder it. (Note: for Categories and Tags, the posts will be "
+        "automatically ordered by date)"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:78
+msgid   "Additional custom codes to be added to the footer."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:46
+msgid   "Additional custom codes to be added to the header."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:152
+msgid   "Additional custom css to be added to template."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:65
+msgid   "All rights reserved"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:24
+msgid   "An image that will represent your website's logo. A PNG transparent "
+        "image would be the great one."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:258
+msgid   "Available Schemes"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:100
+msgid   "Background Color"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:106
+msgid   "Background Image"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:123
+msgid   "Background Image Position"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:112
+msgid   "Background Image Repeat"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:205
+msgid   "Blockquote"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:355
+msgid   "Bold"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:357
+msgid   "Bold Italic"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:132
+msgid   "Bottom Center"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:131
+msgid   "Bottom Left"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:133
+msgid   "Bottom Right"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:129
+msgid   "Center Center"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:128
+msgid   "Center Left"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:130
+msgid   "Center Right"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:393 libs/wpop/functions/pages.php:71
+msgid   "Changelog"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:259
+msgid   "Click the screenshot and press \"Save Changes\" to activate."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:63 libs/wpop/bundled/options.php:65
+msgid   "Copyright"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:398
+msgid   "Current"
+msgstr  ""
+
+#: libs/config/options.php:40
+msgid   "Current Progress (%)"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:151
+msgid   "Custom CSS"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:94
+msgid   "Custom Style"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:101
+msgid   "Custom body background color."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:107
+msgid   "Custom body background image."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:146
+msgid   "Customize the color of the link hover."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:140
+msgid   "Customize the color of the link."
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:353
+msgid   "Default..."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:169
+msgid   "Document"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:72
+msgid   "Documentation"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:399
+msgid   "Documentations"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:367
+msgid   "Enable"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:95
+msgid   "Enable and applies custom styling to the theme."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:64
+msgid   "Enter the Copyright notice of the website."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:240
+msgid   "Entries"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:45 libs/wpop/bundled/options.php:77
+msgid   "Extras"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:28
+msgid   "Favicon"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:254
+msgid   "File not found"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:57
+msgid   "Footer"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:413 libs/wpop/functions/pages.php:73
+msgid   "Forum"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:16
+msgid   "General"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_theme.php:513
+#, php-format
+msgid   "Get more theme visual styles by purchasing <a href=\"http://wordspop."
+        "com/themes/%s\">the schemes</a> as low as $2.99."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:39
+msgid   "Header"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:175
+msgid   "Heading 1"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:181
+msgid   "Heading 2"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:187
+msgid   "Heading 3"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:193
+msgid   "Heading 4"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:199
+msgid   "Heading 5"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:164
+msgid   "Here you can use custom typography which also support the <a href="
+        "\"http://code.google.com/webfonts\">Google Fonts</a>."
+msgstr  ""
+
+#: libs/config/options.php:35
+msgid   "Hi there, thanks for visited! Unfortunately this site is under "
+        "construction, meanwhile feel free to follow us on <a href=\"http://"
+        "twitter.com/wordspop\">twitter</a> to get latest update."
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:625
+msgid   "Invalid options"
+msgstr  ""
+
+#: index.php:7
+msgid   "Invalid progress value"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:356
+msgid   "Italic"
+msgstr  ""
+
+#: index.php:11 libs/config/options.php:27
+msgid   "Launch Date"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:139
+msgid   "Link"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:145
+msgid   "Link Hover"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:211
+msgid   "List"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:22
+msgid   "Logo"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:336 libs/wpop/classes/wpop.php:385
+msgid   "Mobile"
+msgstr  ""
+
+#: libs/config/options.php:54
+msgid   "No"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:114
+msgid   "No Repeat"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:354
+msgid   "Normal"
+msgstr  ""
+
+#: index.php:4
+msgid   "Our Website Progress"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:71
+msgid   "Paste the <a href=\"http://google.com/analytics/\">Google Analytics</"
+        "a> (nor others) tracking code to be added to footer."
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:126
+msgid   "Please contact sales@wordspop.com to get the download link and don't "
+        "forget to tell us your order number."
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:123
+msgid   "Please update now"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:251 libs/wpop/classes/wpop_form.php:522
+#: libs/wpop/functions/pages.php:147
+msgid   "Remove"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:117
+msgid   "Repeat Both Horizontally and Vertically"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:115
+msgid   "Repeat Horizontally"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:116
+msgid   "Repeat Vertically"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:77 libs/wpop/functions/pages.php:133
+msgid   "Save Changes"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:252
+msgid   "Scheme"
+msgstr  ""
+
+#: libs/config/options.php:22
+msgid   "Set your site title while using this theme. eg. \"We'll be Back\" or "
+        "\"Under Construction\"."
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:332 libs/wpop/classes/wpop.php:376
+msgid   "Settings"
+msgstr  ""
+
+#: libs/config/options.php:32
+msgid   "Short Description"
+msgstr  ""
+
+#: libs/config/options.php:51
+msgid   "Show Wordspop Logo"
+msgstr  ""
+
+#: libs/config/options.php:20
+msgid   "Site Title"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:220
+msgid   "Slider"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:227
+msgid   "Source"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:87
+msgid   "Styling"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_migration.php:101
+msgid   "Successfully migrated from previous version"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_migration.php:103
+#, php-format
+msgid   "Successfully migrated from version %s"
+msgstr  ""
+
+#: footer.php:3
+msgid   "Theme by"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:346 libs/wpop/classes/wpop.php:419
+msgid   "Themes"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:180
+msgid   "Themes by"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:150
+msgid   "Title"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:126
+msgid   "Top Center"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:125
+msgid   "Top Left"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:127
+msgid   "Top Right"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:70
+msgid   "Tracking Code"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:161
+msgid   "Typography"
+msgstr  ""
+
+#: libs/config/options.php:23
+msgid   "Under Construction"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:262
+msgid   "Upload"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:65
+#, php-format
+msgid   "Version %s"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:71
+msgid   "View theme changelog"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:72
+msgid   "View theme documentation"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:73
+msgid   "Visit the Wordspop support forum"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:425
+msgid   "Website"
+msgstr  ""
+
+#: libs/config/options.php:34
+msgid   "What's going on your site. It's OK to add &lt;a&gt;."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:229
+msgid   "Which source would you like to use as the slider. (You should re-"
+        "create the entries everytime the source changed)"
+msgstr  ""
+
+#: libs/config/options.php:53
+msgid   "Yes (recommended)"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:111
+msgid   "background_repeat"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:122 libs/wpop/classes/wpop.php:125
+msgid   "is available!"
+msgstr  ""
