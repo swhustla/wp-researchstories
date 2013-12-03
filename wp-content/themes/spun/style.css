@@ -473,7 +473,7 @@ a:active {
 	text-align: right;
 	text-transform: uppercase;
 	width: 60%;
-	z-index: 1000;
+	z-index: 99999;
 }
 .main-navigation ul {
 	list-style: none;
@@ -507,7 +507,7 @@ a:active {
 	-moz-transition: all .4s ease-in-out;
 	-o-transition: all .4s ease-in-out;
 	visibility: hidden;
-	z-index: 99999;
+	z-index: 99998;
 }
 .main-navigation ul ul ul {
 	left: 100%;
