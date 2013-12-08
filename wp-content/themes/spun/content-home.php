@@ -39,5 +39,9 @@ else {
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class( $postclass ); ?>>
-	<a href="<?php the_permalink(); ?>" title="<?php echo esc_attr( the_title_attribute( 'echo=0' ) ); ?>" rel="bookmark"><?php echo $thumb; ?></a>
+	<a href="<?php the_permalink(); ?>" title="<?php echo esc_attr( the_title_attribute( 'echo=0' ) ); ?>" rel="bookmark"><?php echo $thumb; ?>
+              <span class="hometitle">
+                    <?php the_title(); ?>
+              </span>
+</a>
 </article><!-- #post-<?php the_ID(); ?> -->
