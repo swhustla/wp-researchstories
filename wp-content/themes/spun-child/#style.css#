@@ -39,6 +39,10 @@ text-shadow: 1px 1px #6B6868;
   position: fixed;
 }
 
+.blog #content {
+
+}
+
 @media screen and ( max-width: 800px ) {
 
     .blog .hentry span.hometitle {
