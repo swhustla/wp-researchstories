@@ -42,20 +42,9 @@ text-shadow: 1px 1px #6B6868;
   z-index:1000000;
 }
 
-@media screen and ( max-width: 1200px ) {
-.hentry {
-    margin: 10px;
-    width: 200px;
-    height: 200px;
-    }
-}
+
 
 @media screen and ( max-width: 800px ) {
-.hentry {
-    margin: 5px;
-    width: 123px;
-    height: 123px;
-    }
 
     .blog .hentry span.hometitle {
  position: absolute;
@@ -79,11 +68,7 @@ text-shadow: 1px 1px #6B6868;
 
 }
 @media screen and ( max-width: 600px ) {
-.hentry {
-    margin: 4px;
-    width: 100px;
-    height: 100px;
-    }
+
     .blog .hentry span.hometitle {
  position: absolute;
  top: 56px;
