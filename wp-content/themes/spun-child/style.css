@@ -1,0 +1,83 @@
+/*
+Theme Name:     Spun Child
+Theme URI:      http://example.com/
+Description:    Child theme for the Spun theme
+Author:         Frank Kelly
+Author URI:     http://
+Template:       spun
+Version:        0.1.0
+*/
+
+@import url("../spun/style.css");
+
+.blog .hentry span.hometitle {
+ position: absolute;
+ top: 70px;
+ width: 100%;
+   color: #FAFAFA;
+    display: table-cell;
+    font-family: Baskerville,"Playfair Display","Times New Roman",serif;
+    font-size: 3.4rem;
+    font-style: italic;
+    height: 180px;
+    line-height: 32px;
+    overflow: hidden;
+    text-align: center;
+    transition: background 0.4s ease-in-out 0s;
+    vertical-align: middle;
+    width: 180px;
+    word-wrap: break-word;
+text-shadow: 1px 1px #6B6868;
+}
+
+.blog .hentry {
+ position: relative;
+}
+
+#masthead {
+  opacity: 1;
+}
+
+@media screen and ( max-width: 800px ) {
+
+    .blog .hentry span.hometitle {
+ position: absolute;
+ top: 50px;
+ width: 100%;
+   color: #FAFAFA;
+    display: table-cell;
+    font-family: Baskerville,"Playfair Display","Times New Roman",serif;
+    font-size: 2.4rem;
+    font-style: italic;
+    height: 123px;
+    line-height: 24px;
+    overflow: hidden;
+    text-align: center;
+    transition: background 0.4s ease-in-out 0s;
+    vertical-align: middle;
+    width: 123px;
+    word-wrap: break-word;
+text-shadow: 1px 1px #6B6868;
+}
+
+}
+@media screen and ( max-width: 600px ) {
+    .blog .hentry span.hometitle {
+ position: absolute;
+ top: 56px;
+ width: 100%;
+   color: #FAFAFA;
+    display: table-cell;
+    font-family: Baskerville,"Playfair Display","Times New Roman",serif;
+    font-size: 2.4rem;
+    font-style: italic;
+    height: 140px;
+    line-height: 24px;
+    overflow: hidden;
+    text-align: center;
+    transition: background 0.4s ease-in-out 0s;
+    vertical-align: middle;
+    width: 140px;
+    word-wrap: break-word;
+text-shadow: 1px 1px #6B6868;
+}
