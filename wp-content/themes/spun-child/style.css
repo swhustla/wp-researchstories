@@ -30,12 +30,16 @@ Version:        0.1.0
 text-shadow: 1px 1px #6B6868;
 }
 
+.blog {
+position: relative;
+}
+
 .blog .hentry {
  position: relative;
 }
 
 #masthead {
-  opacity: 1;
+  opacity: 0.7;
   background: #fff;
   position: fixed;
   z-index:1000000;
