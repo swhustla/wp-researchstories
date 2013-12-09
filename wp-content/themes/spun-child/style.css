@@ -38,6 +38,9 @@ text-shadow: 1px 1px #6B6868;
 .main-small-navigation .menu {
 padding-left:200px;
 }
+.main-small-navigation .menu li {
+margin-left: 200px;
+}
 
 #masthead {
   opacity: 0.7;
