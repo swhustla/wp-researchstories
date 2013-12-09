@@ -44,9 +44,13 @@ text-shadow: 1px 1px #6B6868;
 
 
 
-@media screen and ( min-width: 800px ) {
-.blog #primary { position: relative; height: 400px; }
-.blog #primary .hentry { width: 150px; height: 150px; }
+
+
+@media screen and ( max-width: 800px ) {
+
+.blog #primary {
+padding-top: 120px;
+}
     .blog .hentry span.hometitle {
  position: absolute;
  top: 50px;
@@ -64,15 +68,15 @@ text-shadow: 1px 1px #6B6868;
     vertical-align: middle;
     width: 123px;
     word-wrap: break-word;
-text-shadow: 1px 1px #6B6868;
+/* text-shadow: 1px 1px #6B6868;*/
 }
 
 }
 @media screen and ( max-width: 600px ) {
 
-.blog #primary { position: relative; height: 300px; }
-.blog #primary .hentry { width: 130px; height: 130px; }
-
+.blog #primary {
+padding-top: 120px;
+}
     .blog .hentry span.hometitle {
  position: absolute;
  top: 56px;
@@ -90,5 +94,5 @@ text-shadow: 1px 1px #6B6868;
     vertical-align: middle;
     width: 140px;
     word-wrap: break-word;
-text-shadow: 1px 1px #6B6868;
+/* text-shadow: 1px 1px #6B6868;*/
 }
