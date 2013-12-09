@@ -35,13 +35,10 @@ text-shadow: 1px 1px #6B6868;
  position: relative;
 }
 
-.menu-toggle {
+.main-navigation {
 padding-left:200px;
 }
 
-#secondary {
-padding-top: 120px;
-}
 
 #masthead {
   opacity: 0.7;
