@@ -35,11 +35,8 @@ text-shadow: 1px 1px #6B6868;
  position: relative;
 }
 
-.main-small-navigation .menu {
+.menu-toggle {
 padding-left:200px;
-}
-.main-small-navigation .menu li {
-margin-left: 200px;
 }
 
 #masthead {
