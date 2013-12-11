@@ -59,11 +59,21 @@ padding-right:50px;
 padding-top: 120px;
 }
 
+ .blog .hentry span.hometitle {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 2.0rem;
+    font-style: normal;
+}
+
+
 #page {
     width: 600px;
     }
 
 }
+
+
+
 
 @media screen and ( max-width: 800px ) {
 
@@ -102,9 +112,9 @@ padding-top: 120px;
  width: 100%;
    color: #FAFAFA;
     display: table-cell;
-    font-family: Baskerville,"Playfair Display","Times New Roman",serif;
-    font-size: 2.4rem;
-    font-style: italic;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1.8rem;
+    font-style: normal;
     height: 140px;
     line-height: 24px;
     overflow: hidden;
