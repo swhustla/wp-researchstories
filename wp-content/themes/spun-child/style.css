@@ -65,6 +65,15 @@ padding-top: 220px;
     font-style: normal;
 }
 
+ .blog .hentry a .attachment-post-thumbnail,
+ .archive .hentry a .attachment-post-thumbnail,
+ .search .hentry a .attachment-post-thumbnail {
+     filter:none;
+     -webkit-filter:none;
+     -moz-filter:none;
+     -o-filter:none;
+     }
+
 
 /* #page {
     width: 600px;
