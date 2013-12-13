@@ -54,11 +54,6 @@ padding-right:50px;
 
 }
 
-#masthead hgroup {
- padding-top:180px
-}
-
-
 @media screen and ( min-width: 800px ) {
 .blog #primary {
 padding-top: 220px;
