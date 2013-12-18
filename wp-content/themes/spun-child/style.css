@@ -41,7 +41,8 @@ padding-top:120px;
 
 
 .main-navigation {
-padding-left:100px;
+float: none;
+padding-left:50px;
 padding-right:50px;
 padding-top:70px;
 text-transform:inherit;
