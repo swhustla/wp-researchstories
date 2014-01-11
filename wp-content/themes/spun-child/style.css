@@ -52,7 +52,7 @@ text-transform:inherit;
 
 .main-navigation a {
  /* http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html */
- /* font-family: arial;*/
+ font-family: Verdana, Arial, Helvetica, sans-serif;
  /* http://www.w3schools.com/cssref/css_colornames.asp */
 font-style:bold;
 text-align: center;
