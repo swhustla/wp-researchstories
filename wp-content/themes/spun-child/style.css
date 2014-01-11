@@ -73,13 +73,16 @@ text-align:center;
     right:50%;
 }
 
-.main-navigation a {
+.main-navigation ul li a {
+    display:block;
+    margin:0 0 0 1px;
+    padding:3px 10px;
  /* http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html */
- font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
  /* http://www.w3schools.com/cssref/css_colornames.asp */
-font-style:bold;
-padding-left:10px;
-color:#000000;
+    font-style:bold;
+/* padding-left:10px;*/
+    color:#000000;
 }
 
 
