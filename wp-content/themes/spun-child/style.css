@@ -39,11 +39,6 @@ text-shadow: 1px 1px #6B6868;
 padding-top:120px;
 }
 
-.site-header img {
-    z-index:1000000;
-}
-
-
 .main-navigation {
 float:left;
 overflow: hidden;
@@ -133,6 +128,7 @@ padding-top: 220px;
 #masthead img {
     max-width: 400px;
     height: auto;
+    z-index: 1000000;
 }
 
 .blog #primary {
