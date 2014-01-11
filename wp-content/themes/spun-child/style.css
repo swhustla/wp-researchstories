@@ -60,7 +60,7 @@ color:#000000;
 }
 
 .main-navigation li {
-    float: none;
+    float: left;
 }
 
 #masthead {
