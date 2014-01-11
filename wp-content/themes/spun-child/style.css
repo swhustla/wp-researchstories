@@ -47,6 +47,7 @@ padding-left:50px;
 padding-right:50px;
 padding-top:70px;
 text-transform:inherit;
+font-style:bold;
 }
 
 
@@ -127,7 +128,7 @@ padding-top: 180px;
 }
 
 .blog #primary {
-padding-top: 280px;
+padding-top: 180px;
 }
     .blog .hentry span.hometitle {
  position: absolute;
