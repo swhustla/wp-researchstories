@@ -63,6 +63,16 @@ left:50%;
 text-align:center;
 }
 
+.main-navigation ul li {
+    display: block;
+    float: left;
+    list-style: none;
+    margin:0;
+    padding:0;
+    position:relative;
+    right:50%;
+}
+
 .main-navigation a {
  /* http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html */
  font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -72,10 +82,6 @@ padding-left:10px;
 color:#000000;
 }
 
-.main-navigation li {
-    display: inline;
-    list-style-type: none;
-}
 
 #masthead {
   opacity: 1;
