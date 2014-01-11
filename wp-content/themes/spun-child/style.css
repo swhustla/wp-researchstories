@@ -47,6 +47,13 @@ padding-left:50px;
 padding-right:50px;
 padding-top:70px;
 text-transform:inherit;
+
+}
+
+.main-navigation a {
+ /* http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html */
+ font-family: arial;
+ /* http://www.w3schools.com/cssref/css_colornames.asp */
 font-style:bold;
 }
 
