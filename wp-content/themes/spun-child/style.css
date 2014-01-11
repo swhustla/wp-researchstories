@@ -55,13 +55,12 @@ text-transform:inherit;
  font-family: Verdana, Arial, Helvetica, sans-serif;
  /* http://www.w3schools.com/cssref/css_colornames.asp */
 font-style:bold;
-text-align: center;
 padding-left:10px;
 color:#000000;
 }
 
 .main-navigation li {
-    float: center;
+    text-align: center;
 }
 
 #masthead {
