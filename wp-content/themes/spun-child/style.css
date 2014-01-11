@@ -57,8 +57,12 @@ text-transform:inherit;
 font-style:bold;
 text-align: center;
 padding-left:10px;
+color:#000000;
 }
 
+.main-navigation li {
+    float: center;
+}
 
 #masthead {
   opacity: 1;
