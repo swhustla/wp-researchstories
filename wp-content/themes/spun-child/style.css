@@ -51,7 +51,7 @@ text-transform:inherit;
 
 
 #masthead {
-  opacity: 0.7;
+  opacity: 1;
   background: #fff;
   position: fixed;
   z-index:1000000;
