@@ -41,7 +41,7 @@ padding-top:120px;
 
 
 .main-navigation {
-/* text-align: center;*/
+text-align: center;
 float: none;
 padding-left:50px;
 padding-right:50px;
@@ -60,7 +60,8 @@ color:#000000;
 }
 
 .main-navigation li {
-    float: left;
+    display: inline;
+    list-style-type: none;
 }
 
 #masthead {
