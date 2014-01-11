@@ -44,8 +44,8 @@ float:left;
 overflow: hidden;
 postion: relative;
 /*text-align: center;*/
-padding-left:50px;
-padding-right:50px;
+/*padding-left:50px;
+padding-right:50px;*/
 padding-top:70px;
 text-transform:inherit;
 
@@ -96,6 +96,8 @@ text-align:center;
   position:relative;
   z-index:1000000;
 }
+
+
 
 @media screen and ( min-width: 800px ) {
 .blog #primary {
