@@ -52,10 +52,11 @@ text-transform:inherit;
 
 .main-navigation a {
  /* http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html */
- font-family: arial;
+ /* font-family: arial;*/
  /* http://www.w3schools.com/cssref/css_colornames.asp */
 font-style:bold;
 text-align: center;
+padding-left:10px;
 }
 
 
