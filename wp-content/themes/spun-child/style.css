@@ -93,6 +93,7 @@ text-align:center;
 
 }
 #masthead img {
+  position:relative;
   z-index:1000000;
 }
 
