@@ -39,6 +39,10 @@ text-shadow: 1px 1px #6B6868;
 padding-top:120px;
 }
 
+.site-header img {
+    z-index:1000000;
+}
+
 
 .main-navigation {
 float:left;
@@ -90,7 +94,7 @@ text-align:center;
   opacity: 1;
   background: #fff;
   position: fixed;
-  z-index:1000000;
+  z-index:999999;
 
 }
 
