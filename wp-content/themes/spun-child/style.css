@@ -98,6 +98,15 @@ text-align:center;
 }
 
 
+.entry-title{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.entry-content,
+.entry-summary {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
 
 @media screen and ( min-width: 800px ) {
 .blog #primary {
@@ -188,4 +197,8 @@ padding-top: 180px;
     width: 140px;
     word-wrap: break-word;
 /* text-shadow: 1px 1px #6B6868;*/
+}
+
+
+
 }
