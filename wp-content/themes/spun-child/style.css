@@ -41,13 +41,26 @@ padding-top:120px;
 
 
 .main-navigation {
-text-align: center;
-float: none;
+float:left;
+overflow: hidden;
+postion: relative;
+/*text-align: center;*/
 padding-left:50px;
 padding-right:50px;
 padding-top:70px;
 text-transform:inherit;
 
+}
+
+.main-navigation ul {
+clear:left;
+float:left;
+list-style:none;
+margin:0;
+padding:0;
+position:relative;
+left:50%;
+text-align:center;
 }
 
 .main-navigation a {
