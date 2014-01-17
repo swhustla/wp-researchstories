@@ -93,8 +93,8 @@ text-align:center;
 /*  min-height:105px;*/
 }
 #masthead img {
-/*  position:relative;*/
-z-index: 100000;
+position:relative;
+z-index: 99999;
 }
 
 .wp-caption-text {
