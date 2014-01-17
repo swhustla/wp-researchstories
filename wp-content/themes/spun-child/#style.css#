@@ -48,7 +48,6 @@ postion: relative;
 padding-right:50px;*/
 padding-top:70px;
 text-transform:inherit;
-
 }
 
 .main-navigation ul {
@@ -87,14 +86,14 @@ text-align:center;
 
 #masthead {
   opacity: 1;
-  background: #fff;
- 
-  z-index:999999;
-  min-height:105px;
+/*   background: #fff;*/
+/*  position: fixed;*/
+/*
+/*  min-height:105px;*/
 }
 #masthead img {
-  position:relative;
-  z-index:1000000;
+/*  position:relative;*/
+z-index:10;
 }
 
 
@@ -113,7 +112,7 @@ font-size: 1.4rem;
 
 @media screen and ( min-width: 800px ) {
 .blog #primary {
-padding-top: 220px;
+padding-top: 60px;
 }
 
  .blog .hentry span.hometitle {
@@ -149,7 +148,7 @@ padding-top: 220px;
 }
 
 .blog #primary {
-padding-top: 180px;
+padding-top: 60px;
 }
     .blog .hentry span.hometitle {
  position: absolute;
@@ -180,7 +179,7 @@ padding-top: 180px;
 }
 
 .blog #primary {
-padding-top: 180px;
+padding-top: 60px;
 }
     .blog .hentry span.hometitle {
  position: absolute;
