@@ -48,7 +48,7 @@ postion: relative;
 padding-right:50px;*/
 padding-top:70px;
 text-transform:inherit;
-
+z-index:99998
 }
 
 .main-navigation ul {
@@ -94,7 +94,7 @@ text-align:center;
 }
 #masthead img {
 position:relative;
-/*z-index: 100000;*/
+z-index: 99999;
 }
 
 .wp-caption-text {
