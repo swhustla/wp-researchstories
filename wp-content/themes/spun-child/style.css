@@ -88,7 +88,7 @@ text-align:center;
 #masthead {
   opacity: 1;
   background: #fff;
-  position: fixed;
+/*  position: fixed;*/
   z-index:999999;
   min-height:105px;
 }
