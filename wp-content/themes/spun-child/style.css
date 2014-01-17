@@ -84,6 +84,9 @@ text-align:center;
     color:#000000;
 }
 
+.main-navigation ul ul {
+ position:relative;
+}
 
 #masthead {
   opacity: 1;
