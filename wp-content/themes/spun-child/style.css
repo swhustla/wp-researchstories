@@ -94,7 +94,7 @@ text-align:center;
 }
 #masthead img {
 position:relative;
-z-index: 99999;
+z-index: 199999;
 }
 
 .wp-caption-text {
