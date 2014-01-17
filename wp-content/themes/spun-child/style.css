@@ -97,6 +97,10 @@ text-align:center;
 z-index: 99999;
 }
 
+.wp-caption-text {
+text-transform: inherit;
+}
+
 
 .entry-title{
 font-family: Verdana, Arial, Helvetica, sans-serif;
