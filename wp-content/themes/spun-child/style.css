@@ -113,7 +113,7 @@ font-size: 1.4rem;
 
 @media screen and ( min-width: 800px ) {
 .blog #primary {
-padding-top: 220px;
+/* padding-top: 60px;*/
 }
 
  .blog .hentry span.hometitle {
@@ -149,7 +149,7 @@ padding-top: 220px;
 }
 
 .blog #primary {
-padding-top: 180px;
+/*padding-top: 180px;*/
 }
     .blog .hentry span.hometitle {
  position: absolute;
@@ -180,7 +180,7 @@ padding-top: 180px;
 }
 
 .blog #primary {
-padding-top: 180px;
+/* padding-top: 180px;*/
 }
     .blog .hentry span.hometitle {
  position: absolute;
