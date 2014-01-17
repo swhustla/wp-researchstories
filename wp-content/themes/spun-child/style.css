@@ -94,7 +94,7 @@ text-align:center;
 }
 #masthead img {
 /*  position:relative;*/
-/*  z-index:1000000;*/
+z-index:10;
 }
 
 
@@ -113,7 +113,7 @@ font-size: 1.4rem;
 
 @media screen and ( min-width: 800px ) {
 .blog #primary {
-/* padding-top: 60px;*/
+padding-top: 60px;
 }
 
  .blog .hentry span.hometitle {
@@ -149,7 +149,7 @@ font-size: 1.4rem;
 }
 
 .blog #primary {
-/*padding-top: 180px;*/
+padding-top: 60px;
 }
     .blog .hentry span.hometitle {
  position: absolute;
@@ -180,7 +180,7 @@ font-size: 1.4rem;
 }
 
 .blog #primary {
-/* padding-top: 180px;*/
+padding-top: 60px;
 }
     .blog .hentry span.hometitle {
  position: absolute;
