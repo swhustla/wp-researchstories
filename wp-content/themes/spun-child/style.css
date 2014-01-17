@@ -86,15 +86,15 @@ text-align:center;
 
 
 #masthead {
-  opacity: 1;
-  background: #fff;
+/*  opacity: 1;*/
+/*   background: #fff;*/
 /*  position: fixed;*/
-  z-index:999999;
-  min-height:105px;
+/*  z-index:999999;*/
+/*  min-height:105px;*/
 }
 #masthead img {
-  position:relative;
-  z-index:1000000;
+/*  position:relative;*/
+/*  z-index:1000000;*/
 }
 
 
