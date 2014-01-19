@@ -49,7 +49,8 @@ position: relative;
 padding-right:50px;
 padding-top:70px;*/
 text-transform:inherit;
-z-index:99998
+z-index:99998;
+width: 100%;
 }
 
 .main-navigation ul {
