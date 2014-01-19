@@ -37,7 +37,7 @@ text-shadow: 1px 1px #6B6868;
 
 
 .entry-title {
-padding-top:120px;
+padding-top:50px;
 }
 
 .main-navigation {
@@ -121,7 +121,7 @@ font-size: 1.4rem;
 
 .page .hentry
 {
-padding-top:0px
+/*padding-top:0px*/
 }
 
 
